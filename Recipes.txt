@@ -6,6 +6,7 @@ Apex
 VisualForce
 Aura Development
 
+LWC
 
 
 Thanks You :-)
